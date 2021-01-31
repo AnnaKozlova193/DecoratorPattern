@@ -1,0 +1,7 @@
+C:\Users\Anna\source\repos\PatternsExam\PatternsExam\bin\Debug\PatternsExam.exe.config
+C:\Users\Anna\source\repos\PatternsExam\PatternsExam\bin\Debug\PatternsExam.exe
+C:\Users\Anna\source\repos\PatternsExam\PatternsExam\bin\Debug\PatternsExam.pdb
+C:\Users\Anna\source\repos\PatternsExam\PatternsExam\obj\Debug\PatternsExam.csprojAssemblyReference.cache
+C:\Users\Anna\source\repos\PatternsExam\PatternsExam\obj\Debug\PatternsExam.csproj.CoreCompileInputs.cache
+C:\Users\Anna\source\repos\PatternsExam\PatternsExam\obj\Debug\PatternsExam.exe
+C:\Users\Anna\source\repos\PatternsExam\PatternsExam\obj\Debug\PatternsExam.pdb
